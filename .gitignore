@@ -1,0 +1,7 @@
+.DS_store
+
+# Python build files
+__pycache__
+
+# jupyter notebooks checkpoints:
+.ipynb_checkpoints
